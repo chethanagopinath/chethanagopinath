@@ -11,7 +11,7 @@ Implementing `wc` Unix command in Python <br/>
 
 ### 🔭 Recent projects
   
-  [![Unix commands in Python](https://github-readme-stats.vercel.app/api/pin/?username=chethanagopinath&repo=unix-commands-in-python&theme=highcontrast)](https://github.com/chethanagopinath/unix-commands-in-python/cat)  [![Tasks Tracker](https://github-readme-stats.vercel.app/api/pin/?username=chethanagopinath&repo=tasks-tracker&theme=highcontrast)](https://github.com/chethanagopinath/tasks-tracker)
+  [![Unix commands in Python](https://github-readme-stats.vercel.app/api/pin/?username=chethanagopinath&repo=unix-commands-in-python&theme=highcontrast)](https://github.com/chethanagopinath/unix-commands-in-python)  [![Tasks Tracker](https://github-readme-stats.vercel.app/api/pin/?username=chethanagopinath&repo=tasks-tracker&theme=highcontrast)](https://github.com/chethanagopinath/tasks-tracker)
 
 
 ### 🌱 I’m currently learning about 
