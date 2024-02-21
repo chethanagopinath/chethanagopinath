@@ -22,6 +22,7 @@ Implementing `wc` Unix command in Python <br/>
 ### 📈 Goals in 2024
 - Building a small Arduino project solving a personal problem
 - Contributing to more open source projects
+- Start blogging more about tech content
 - Reading at least 12 fiction novels by end of year
 - Taking a 30 min walk everyday
 
