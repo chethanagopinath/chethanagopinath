@@ -6,12 +6,12 @@ I'm a software engineer residing in sunny California. I enjoy learning, solving 
 ### 👀 Currently working on
 Implementing `wc` Unix command in Python <br/>
 
-[![WC command tool](https://img.shields.io/static/v1?label=wc-command&message=click%20to%20view&color=darkgreen)](https://github.com/chethanagopinath/wc-command)
+[![WC command tool](https://img.shields.io/static/v1?label=wc-command&message=click%20to%20view&color=darkgreen)](https://github.com/chethanagopinath/unix-commands-in-python/tree/main/wc)
 
 
 ### 🔭 Recent projects
   
-  [![Cat Command Tool](https://github-readme-stats.vercel.app/api/pin/?username=chethanagopinath&repo=cat-command&theme=highcontrast)](https://github.com/chethanagopinath/cat-command)  [![Tasks Tracker](https://github-readme-stats.vercel.app/api/pin/?username=chethanagopinath&repo=tasks-tracker&theme=highcontrast)](https://github.com/chethanagopinath/tasks-tracker)
+  [![Unix commands in Python](https://github-readme-stats.vercel.app/api/pin/?username=chethanagopinath&repo=unix-commands-in-python&theme=highcontrast)](https://github.com/chethanagopinath/unix-commands-in-python/cat)  [![Tasks Tracker](https://github-readme-stats.vercel.app/api/pin/?username=chethanagopinath&repo=tasks-tracker&theme=highcontrast)](https://github.com/chethanagopinath/tasks-tracker)
 
 
 ### 🌱 I’m currently learning about 
