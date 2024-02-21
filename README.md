@@ -30,7 +30,7 @@ Implementing `wc` Unix command in Python <br/>
 - Email: chethanaagopinath@gmail.com
 - LinkedIn: https://www.linkedin.com/in/chethana-gopinath/
 
-
+### 🧑‍🤝‍🧑 Visitor count
 ![Visitor Count](https://profile-counter.glitch.me/chethanagopinath/count.svg)
 
 <!--### 😄 More about me
