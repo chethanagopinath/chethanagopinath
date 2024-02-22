@@ -1,7 +1,16 @@
-### Hi there 👋
+### Hello, I'm Chethana 👋 
+
+Welcome to my corner of the web! :)
 
 ### 🌈 About me
 I'm a software engineer residing in sunny California. I enjoy learning, solving problems, and spending my free time experimenting with new cuisines and flavors in the kitchen and exploring beautiful scenic places.
+
+I have been working as a softare engineer (full-stack) for about 3 years at realtor.com, primarily working with these tools: Flask, React, FastAPI, Apollo GraphQL, Postgres and AWS.
+Before this, I did my masters in Computer Science in New York. 
+
+Also worked for 2 years in India as a software engineer in test at Wolters Kluwer.  
+
+💪 One of my superpowers: I am really good at root causing (whether its a small bug or a massive outage), finding a solution and moving forward. 
 
 ### 👀 Currently working on
 Implementing `wc` Unix command in Python <br/>
