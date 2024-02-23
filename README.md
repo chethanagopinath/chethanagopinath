@@ -13,9 +13,9 @@ Also worked for 2 years in India as a software engineer in test at Wolters Kluwe
 💪 One of my superpowers: I am really good at root causing (whether its a small bug or a massive outage), finding a solution and moving forward. 
 
 ### 👀 Currently working on
-Implementing `wc` Unix command in Python <br/>
+Building my own shell in Python
 
-[![WC command tool](https://img.shields.io/static/v1?label=wc-command&message=click%20to%20view&color=darkgreen)](https://github.com/chethanagopinath/unix-commands-in-python/tree/main/wc)
+[![custom shell](https://img.shields.io/static/v1?label=custom-shell&message=click%20to%20view&color=darkgreen)](https://github.com/chethanagopinath/custom-shell)
 
 
 ### 🔭 Recent projects
