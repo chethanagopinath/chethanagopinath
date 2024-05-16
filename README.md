@@ -20,7 +20,7 @@ Building my own shell in Python
 
 ### 🔭 Recent projects
   
-  [![Unix commands in Python](https://github-readme-stats.vercel.app/api/pin/?username=chethanagopinath&repo=unix-commands-in-python&theme=highcontrast)](https://github.com/chethanagopinath/unix-commands-in-python)  [![My blog](https://github-readme-stats.vercel.app/api/pin/?username=chethanagopinath&repo=tasks-tracker&theme=highcontrast)](https://github.com/chethanagopinath/my-website-blog)
+  [![Unix commands in Python](https://github-readme-stats.vercel.app/api/pin/?username=chethanagopinath&repo=unix-commands-in-python&theme=highcontrast)](https://github.com/chethanagopinath/unix-commands-in-python)  [![My blog](https://github-readme-stats.vercel.app/api/pin/?username=chethanagopinath&repo=my-website-blog&theme=highcontrast)](https://github.com/chethanagopinath/my-website-blog)
 
 
 ### 🌱 I’m currently learning about 
