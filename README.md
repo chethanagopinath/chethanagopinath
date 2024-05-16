@@ -20,18 +20,18 @@ Building my own shell in Python
 
 ### 🔭 Recent projects
   
-  [![Unix commands in Python](https://github-readme-stats.vercel.app/api/pin/?username=chethanagopinath&repo=unix-commands-in-python&theme=highcontrast)](https://github.com/chethanagopinath/unix-commands-in-python)  [![Tasks Tracker](https://github-readme-stats.vercel.app/api/pin/?username=chethanagopinath&repo=tasks-tracker&theme=highcontrast)](https://github.com/chethanagopinath/tasks-tracker)
+  [![Unix commands in Python](https://github-readme-stats.vercel.app/api/pin/?username=chethanagopinath&repo=unix-commands-in-python&theme=highcontrast)](https://github.com/chethanagopinath/unix-commands-in-python)  [![My blog](https://github-readme-stats.vercel.app/api/pin/?username=chethanagopinath&repo=tasks-tracker&theme=highcontrast)](https://github.com/chethanagopinath/my-website-blog)
 
 
 ### 🌱 I’m currently learning about 
- - 🔐 Implementing auth in streamlit apps
- - 🔌 Uses of single board computers
+ - ✍️ Writing good quality technical blog posts
+ - 🔌 Implementing a custom redis server
 
 
 ### 📈 Goals in 2024
 - Building a small Arduino project solving a personal problem
 - Contributing to more open source projects
-- Start blogging more about tech content
+- Start blogging more tech content
 - Reading at least 12 fiction novels by end of year
 - Taking a 30 min walk everyday
 
