@@ -1,21 +1,14 @@
 ### Hello, I'm Chethana 👋 
 
-Welcome to my corner of the web! :)
-
 ### 🌈 About me
 I'm a software engineer residing in sunny California. I enjoy learning, solving problems, and spending my free time experimenting with new cuisines and flavors in the kitchen and exploring beautiful scenic places.
 
-I have been working as a softare engineer (full-stack) for about 3 years at realtor.com, primarily working with these tools: Flask, React, FastAPI, Apollo GraphQL, Postgres and AWS.
-Before this, I did my masters in Computer Science in New York. 
+I have been working as a softare engineer (full-stack) for about 3 years at realtor.com, primarily working with these tools: Flask, React, FastAPI, Apollo GraphQL, Postgres, AWS and ElasticSearch.
+Before this, I did my masters in Computer Science at SUNY Binghamton. 
 
-Also worked for 2 years in India as a software engineer in test at Wolters Kluwer.  
+Also worked for 2 years in India as a software engineer in test at Wolters Kluwer working with Selenium, Groovy, Cucumber, manual and automation testing methodologies.  
 
 💪 One of my superpowers: I am really good at root causing (whether its a small bug or a massive outage), finding a solution and moving forward. 
-
-### 👀 Currently working on
-Building my own shell in Python
-
-[![custom shell](https://img.shields.io/static/v1?label=custom-shell&message=click%20to%20view&color=darkgreen)](https://github.com/chethanagopinath/custom-shell)
 
 
 ### 🔭 Recent projects
@@ -29,10 +22,8 @@ Building my own shell in Python
 
 
 ### 📈 Goals in 2024
-- Building a small Arduino project solving a personal problem
 - Contributing to more open source projects
-- Start blogging more tech content
-- Reading at least 12 fiction novels by end of year
+- Start blogging 1 technical blog a week / bi-weekly
 - Taking a 30 min walk everyday
 
 
