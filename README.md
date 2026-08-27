@@ -8,9 +8,10 @@ I'm a full-stack engineer at realtor.com. I solve ambiguous problems, lead throu
 
 **What matters:** Building systems that scale. Writing code people understand. Creating space for others to grow. Being honest about gaps—technical, process, or organizational.
 
-### 🔭 Pinned projects
+### 🔭 Projects
 
-[![Unix commands in Python](https://github-readme-stats.vercel.app/api/pin/?username=chethanagopinath&repo=unix-commands-in-python&theme=highcontrast)](https://github.com/chethanagopinath/unix-commands-in-python) [![My blog](https://github-readme-stats.vercel.app/api/pin/?username=chethanagopinath&repo=my-website-blog&theme=highcontrast)](https://github.com/chethanagopinath/my-website-blog)
+- [Unix commands in Python](https://github.com/chethanagopinath/unix-commands-in-python)
+- [My blog](https://github.com/chethanagopinath/my-website-blog)
 
 ---
 
